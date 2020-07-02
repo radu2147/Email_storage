@@ -35,6 +35,7 @@ void Repo::update(const Email& em)
 		if (el.get_email() == em.get_email())
 		{
 			el.set_pass(em.get_pass());
+			el.set_plat(em.get_plat());
 			return;
 		}
 	}
