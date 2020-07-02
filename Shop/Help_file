@@ -1,0 +1,9 @@
+Form validation:
+https://www.geeksforgeeks.org/python-form-validation-using-django/
+User customization:
+https://testdriven.io/blog/django-custom-user-model/
+Django Custom User Error:
+https://stackoverflow.com/questions/42794212/migrating-from-django-user-model-to-a-custom-user-model
+Tip: use user.objects.create_user instead of User.objects.create
+Migration problem:
+https://www.youtube.com/watch?v=Xjty8q524Jo min 26
