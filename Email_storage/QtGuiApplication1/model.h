@@ -17,4 +17,5 @@ public:
 	string get_pass() const;
 	string get_plat() const;
 	void set_pass(string pass);
+	void set_plat(string plat);
 };

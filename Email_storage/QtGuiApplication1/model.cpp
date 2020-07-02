@@ -24,3 +24,8 @@ void Email::set_pass(string pass)
 {
 	password = pass;
 }
+
+void Email::set_plat(string plat)
+{
+	platforma = plat;
+}
